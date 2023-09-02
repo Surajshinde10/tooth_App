@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "572154506169",
+    "project_id": "my-tooth-app-13662",
+    "storage_bucket": "my-tooth-app-13662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572154506169:android:c7219316b9c46e19ade468",
+        "android_client_info": {
+          "package_name": "com.example.my_tooth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572154506169-8haf82vu0vpsekuroqur010su23pgi4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_tooth_app",
+            "certificate_hash": "14e724df189b5913f8ef870c1f7ec829ac1090d4"
+          }
+        },
+        {
+          "client_id": "572154506169-p4lb0vdkkom91gv70h312t4ekpq94p7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_tooth_app",
+            "certificate_hash": "e88f3da2733850b2d2330d305783f8b8a196c831"
+          }
+        },
+        {
+          "client_id": "572154506169-kg8uarva6hrolugsf2u6adp6lp89793r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkPxF7i4dHGYNC9QGL6YViDg5q-l0O_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572154506169-kg8uarva6hrolugsf2u6adp6lp89793r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572154506169-adv4c281ae63776q4uthijmn19vc20tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myToothApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
